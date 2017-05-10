@@ -1,4 +1,4 @@
-#wiki.pl
+# wiki.pl
 
 Usage: `$ ./wiki.pl article`
 
